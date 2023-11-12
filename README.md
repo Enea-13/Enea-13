@@ -13,8 +13,9 @@ I'm Enea Malaj a Full Stack Web Developer. I Spend most of my time coding outsta
 - 🔭 I’m currently working as a Freelance Developer.
 - :computer: Most used line of code `console.log(some variable)`
 
-<br>
 #### Top Technologies
+
+<!-- add more skills? -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nextjs Badge](https://img.shields.io/badge/-Nextjs-1e1e1e?style=for-the-badge&labelColor=lightgrey&logo=next.js&logoColor=1e1e1e)](#) [![Tailwindcss Badge](https://img.shields.io/badge/-Tailwind-39bdf8?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=39bdf8)](#)
 
