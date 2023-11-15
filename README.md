@@ -10,7 +10,7 @@ I'm Enea Malaj a Full Stack Web Developer. I Spend most of my time coding outsta
 
 ### What I currently Do
 
-- 🔭 I’m currently working as a Freelance Developer.
+- 🔭 I’m currently working as a professional Freelance Developer.
 - :computer: Most used line of code `console.log(some variable)`
 
 #### Current Top Tech-stack I use
