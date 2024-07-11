@@ -2,7 +2,7 @@
 
 🚀 Check out my [Web Portfolio](https://enea-dev-portfolio.vercel.app/).
 
-I'm Enea Malaj a Full Stack Web Developer. I Spend most of my time coding outstanding projects.
+I'm Enea Malaj a Full Stack Developer. I Spend most of my time coding outstanding projects.
 
 :mailbox: Reach me out!
 
@@ -11,7 +11,7 @@ I'm Enea Malaj a Full Stack Web Developer. I Spend most of my time coding outsta
 ### What I currently Do
 
 - 🔭 I’m currently working as a professional Freelance Developer.
-- :computer: Most used line of code `console.log(some variable)`
+- :computer: Most used shortcut command `CTRL+P —> some filename` 
 
 #### Current Top Tech-stack I use
 
