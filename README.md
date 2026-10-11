@@ -7,10 +7,10 @@ I work across the full development lifecycle, from understanding business requir
 
 ### 🚀 What I do
 
-* **Frontend Architecture**: Design scalable applications, establish development conventions, and make technology decisions that balance maintainability, performance, and delivery.
-* **Product Engineering**: Bridge business requirements, user experience, and technical implementation to turn complex problems into working products.
-* **Technical Leadership**: Take ownership of implementation strategy, code quality, reviews, and development priorities.
-* **AI & Automation**: Explore practical ways to integrate AI into development workflows and improve engineering productivity.
+* 🏗️ **Frontend Architecture**: Design scalable applications, establish development conventions, and make technology decisions that balance maintainability, performance, and delivery.
+* ⚡ **Product Engineering**: Bridge business requirements, user experience, and technical implementation to turn complex problems into working products.
+* 🧭 **Technical Leadership**: Take ownership of implementation strategy, code quality, reviews, and development priorities.
+* 🤖 **AI & Automation**: Explore practical ways to integrate AI into development workflows and improve engineering productivity.
 
 
 
