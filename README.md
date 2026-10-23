@@ -16,9 +16,9 @@ I take ownership of web applications from concept to production, combining hands
 
 ### 💡 Engineering Ethos
 
-* **Pragmatic over Dogmatic:** Choose tools for the job at hand, prioritize developer experience, and favor simple abstractions over clever hacks.
-* **Refactor vs. Ship:** Know when to polish code for longevity and when delivering value matters more than perfection.
-* **Ownership Beyond Code:** Good engineering starts with understanding the problem and doesn't end when the feature ships.
+* **Pragmatic over Dogmatic:** the right tool for the job, simple abstractions over clever hacks.
+* **Refactor vs. Ship:** Know when to polish for longevity and when shipping matters more.
+* **Ownership Beyond Code:** Understand the problem first; stay with it after the feature ships.
 
 ### 📬 Get in Touch
 [LinkedIn](https://www.linkedin.com/in/enea-malaj/) · [Portfolio](https://enea-dev.vercel.app/) · [Email](mailto:eneamalaj13@gmail.com)
