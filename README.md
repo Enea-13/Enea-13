@@ -21,4 +21,5 @@ I take ownership of web applications from concept to production, combining hands
 * **Ownership Beyond Code:** Understand the problem first; stay with it after the feature ships.
 
 ### 📬 Get in Touch
-[LinkedIn](https://www.linkedin.com/in/enea-malaj/) · [Portfolio](https://enea-dev.vercel.app/) · [Email](mailto:eneamalaj13@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/enea-malaj/) · [Portfolio](https://eneamalaj.com/) · [Email](mailto:eneamalaj13@gmail.com)
+
