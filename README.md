@@ -1,6 +1,6 @@
 # Hey, I'm Enea 👋
 
-I'm a **Senior Software Engineer with 7+ years of experience**, specializing in frontend architecture and product engineering.
+I'm a **Senior Full-Stack Engineer with 7+ years of experience**, specializing in frontend architecture and product engineering.
 
 I take ownership of web applications from concept to production, combining hands-on development, architectural decision-making, and technical leadership to turn complex requirements into reliable, maintainable products.
 
